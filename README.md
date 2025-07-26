@@ -27,6 +27,7 @@
 - 🎯 **Real-time Fraud Detection System** – Kafka + FastAPI + ML pipeline with Prometheus monitoring
 - 🚀 **Static Website Deployment on Azure** – Portfolio site hosted with NGINX on Azure VM, automated via GitHub Actions & Bash scripting
 - 🎯 **Smart traffic monitoring system** - An Intelligent traffic monitoring and analysis system built using computer vision and machine learning techniques.
+- 🚖 **NYC Taxi Data Analysis Pipeline** – Scalable PySpark pipeline for cleaning, processing, and analyzing New York City taxi datasets
 - 🧠 **Fruit & Size Classification, lifespan prediction with CNNs** – Apple, banana, and pear image classification, orange lifespan prediction  
 - 🧪 **Evapotranspiration Forecasting** – ML-based RET prediction in a scarcity-prone Nigerian river basin (will be implemented soon with MLOps pipeline for real-time predictions)
 - 📊 **Sales Performance Dashboard** – Interactive BI dashboard for e-commerce sales monitoring.
