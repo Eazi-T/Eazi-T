@@ -26,11 +26,10 @@
 
 - 🎯 **Real-time Fraud Detection System** – Kafka + FastAPI + ML pipeline with Prometheus monitoring
 - 🚀 **Static Website Deployment on Azure** – Portfolio site hosted with NGINX on Azure VM, automated via GitHub Actions & Bash scripting
-- 🎯 **Smart traffic monitoring system** - ComputerVision
+- 🎯 **Smart traffic monitoring system** - An Intelligent traffic monitoring and analysis system built using computer vision and machine learning techniques.
 - 🧠 **Fruit & Size Classification, lifespan prediction with CNNs** – Apple, banana, and pear image classification, orange lifespan prediction  
-- 🧪 **Evapotranspiration Forecasting** – ML-based RET prediction in a scarcity-prone Nigerian river basin  
-- 📊 **Sales Performance Dashboard** – Interactive BI dashboard for e-commerce sales monitoring  
-- 📋 **To-Do List App** – CLI-based Python app with PostgreSQL storage
+- 🧪 **Evapotranspiration Forecasting** – ML-based RET prediction in a scarcity-prone Nigerian river basin (will be implemented soon with MLOps pipeline for real-time predictions)
+- 📊 **Sales Performance Dashboard** – Interactive BI dashboard for e-commerce sales monitoring.
 
 
 ## 🤝 Let's Connect
