@@ -1,3 +1,6 @@
+# DevFolio – Personal Portfolio Website
+[![GitHub Pages](https://img.shields.io/badge/View%20Live-Portfolio-blue?logo=github)](https://eazi-t.github.io/Portfolio/)
+
 # Hi there 👋, I'm Aiyegbeni Israel
 
 🎯 Results-driven Data Science and Machine Learning Enthusiast with a background in engineering, passionate about leveraging data and technology to solve real-world problems. Currently working as a Data Scientist/Analyst at Pricepally, where I contribute to building data-driven solutions that optimize operations and enhance business insights. I enjoy building intelligent systems, optimizing processes, and deploying scalable ML solutions.
