@@ -25,9 +25,10 @@
 ## 📂 Featured Projects
 
 - 🎯 **Real-time Fraud Detection System** – Kafka + FastAPI + ML pipeline with Prometheus monitoring
+- 🚀 **Static Website Deployment on Azure** – Portfolio site hosted with NGINX on Azure VM, automated via GitHub Actions & Bash scripting
 - 🎯 **Smart traffic monitoring system** - ComputerVision
-- 🧠 **Fruit & Size Classification with CNNs** – Apple, banana, and pear image classification  
-- 🧪 **Evapotranspiration Forecasting** – ML-based ETo prediction in a Nigerian river basin  
+- 🧠 **Fruit & Size Classification, lifespan prediction with CNNs** – Apple, banana, and pear image classification, orange lifespan prediction  
+- 🧪 **Evapotranspiration Forecasting** – ML-based RET prediction in a scarcity-prone Nigerian river basin  
 - 📊 **Sales Performance Dashboard** – Interactive BI dashboard for e-commerce sales monitoring  
 - 📋 **To-Do List App** – CLI-based Python app with PostgreSQL storage
 
